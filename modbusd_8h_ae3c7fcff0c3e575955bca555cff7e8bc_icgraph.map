@@ -1,5 +1,0 @@
-<map id="set_modbus_fail_resp_str" name="set_modbus_fail_resp_str">
-<area shape="rect" id="node2" href="$main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="421,5,472,32"/>
-<area shape="rect" id="node3" href="$modbusd_8h.html#a02e79cd2e10e04ca269f511ba9085b24" title="Generic mbtcp command handler. " alt="" coords="229,31,368,57"/>
-<area shape="rect" id="node4" href="$modbusd_8h.html#a03558f5b2ec50273fc0882a1d271a9c4" title="Set modbusd fail response string with error number. " alt="" coords="224,82,373,123"/>
-</map>
