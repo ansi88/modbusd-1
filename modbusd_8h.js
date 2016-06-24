@@ -18,5 +18,8 @@ var modbusd_8h =
     [ "mbtcp_init_handle", "modbusd_8h.html#a7349aa568dc3288417d52543988729f8", null ],
     [ "mbtcp_list_handles", "modbusd_8h.html#a43d25207b1b4a9a85ad60567cd76f622", null ],
     [ "mbtcp_set_response_timeout", "modbusd_8h.html#a983162ba40e602136671415d858b95a4", null ],
-    [ "modbus_set_error_resp", "modbusd_8h.html#ab0ce5370d840359eaf57e96e4c66789b", null ]
+    [ "set_modbus_fail_resp_str", "modbusd_8h.html#ae3c7fcff0c3e575955bca555cff7e8bc", null ],
+    [ "set_modbus_fail_resp_str_with_errno", "modbusd_8h.html#a03558f5b2ec50273fc0882a1d271a9c4", null ],
+    [ "set_modbus_success_resp_str", "modbusd_8h.html#a446336f77dd0a25d5bde668541fdb944", null ],
+    [ "set_modbus_success_resp_str_with_data", "modbusd_8h.html#a7027e9b8f20e721793cb094c2b4b0d67", null ]
 ];

@@ -7,6 +7,7 @@ var files =
     [ "log.h", "log_8h.html", "log_8h" ],
     [ "main.c", "main_8c.html", "main_8c" ],
     [ "main.h", "main_8h.html", "main_8h" ],
+    [ "mbtcp.c", "mbtcp_8c.html", "mbtcp_8c" ],
     [ "modbusd.c", "modbusd_8c.html", "modbusd_8c" ],
     [ "modbusd.h", "modbusd_8h.html", "modbusd_8h" ],
     [ "uthash.h", "uthash_8h.html", "uthash_8h" ]
