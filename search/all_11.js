@@ -1,8 +1,8 @@
 var searchData=
 [
   ['server',['server',['../helpers_8js.html#aff8f9c7d15fadb5807b729b8b5511eab',1,'helpers.js']]],
+  ['server_2ec',['server.c',['../server_8c.html',1,'']]],
   ['server_2ejs',['server.js',['../server_8js.html',1,'']]],
-  ['server1_2ec',['server1.c',['../server1_8c.html',1,'']]],
   ['set_5ftimeout',['set_timeout',['../client2_8js.html#a860fd462c51643c69e860c3a34183280',1,'client2.js']]],
   ['setinterval',['setInterval',['../client3_8js.html#a5863c3b6e14c215b7be4e97aa35b7eef',1,'client3.js']]],
   ['should',['should',['../client2_8js.html#a9538d2c9705b22c2f505c8f047d5de6a',1,'client2.js']]],
