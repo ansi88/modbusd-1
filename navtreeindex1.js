@@ -24,7 +24,7 @@ var NAVTREEINDEX1 =
 "modbusd_8h_source.html":[1,0,8],
 "pages.html":[],
 "server1_8c.html":[1,0,1,0,0],
-"server1_8c.html#a840291bc02cba5474a4cb46a9b9566fe":[1,0,1,0,0,0],
+"server1_8c.html#a0ddf1224851353fc92bfbff6f499fa97":[1,0,1,0,0,0],
 "server_8js.html":[1,0,1,1,1],
 "server_8js.html#a0391a9bc09978d6f7c8c4f2252f1b30c":[1,0,1,1,1,0],
 "server_8js.html#a0bb12f732a2cab12ee1cf0bbd5f791a1":[1,0,1,1,1,5],
